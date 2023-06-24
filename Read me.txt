@@ -1,0 +1,1 @@
+If any error occure while loading this data from keras then download the file from "https://s3.amazonaws.com/img-datasets/mnist.npz" and after downloading, save "mnist.npz" file to your keras/datasets and then load into your model for traing your data.
